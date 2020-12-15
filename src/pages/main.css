@@ -1,0 +1,14 @@
+.App {
+    margin-top: 80px;
+    text-align: center;
+}
+.cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+a {
+    outline: none;
+    text-decoration: none;
+}
